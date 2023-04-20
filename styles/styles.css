@@ -1,0 +1,39 @@
+h1{
+      
+      color: rgb(4, 0, 255);
+}
+h4{
+      
+      color: #fd0000;
+}
+h2{
+      
+      color: #fd0000;
+}
+h3{
+      
+      color: #fd0000;
+}
+main{
+      
+      color: #e90f8e;
+}
+h5{
+      
+      color: #8a03b3;
+}
+    
+
+body{
+      font-family: 'Playfair Display', serif;
+      background-color:rgb(255, 255, 255);
+      background-size: 50%;
+      background-image: url(https://media.tenor.com/i35uVHzdHDYAAAAd/el-hombre-arana-enchufe-tv.gif);
+     text-align: center;
+}
+
+/* Ocultar bolitas lista */
+
+ul{
+      list-style-type: none;
+}
